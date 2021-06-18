@@ -1,0 +1,12 @@
+[submodule "flex-box-practice"]
+	path = flex-box-practice
+	url = https://github.com/tarthurf/flex-box-practice
+[submodule "working-with-arrays"]
+	path = working-with-arrays
+	url = https://github.com/tarthurf/working-with-arrays
+[submodule "func-param-practice"]
+	path = func-param-practice
+	url = https://github.com/tarthurf/func-param-practice
+[submodule "web-api-practice"]
+	path = web-api-practice
+	url = https://github.com/tarthurf/web-api-practice
