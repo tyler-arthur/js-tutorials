@@ -10,3 +10,6 @@
 [submodule "web-api-practice"]
 	path = web-api-practice
 	url = https://github.com/tarthurf/web-api-practice
+[submodule "jquery-tutorial"]
+	path = jquery-tutorial
+	url = https://github.com/tarthurf/jquery-tutorial
