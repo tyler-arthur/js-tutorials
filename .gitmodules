@@ -13,3 +13,6 @@
 [submodule "jquery-tutorial"]
 	path = jquery-tutorial
 	url = https://github.com/tarthurf/jquery-tutorial
+[submodule "conditionals-tutorial"]
+	path = conditionals-tutorial
+	url = https://github.com/tarthurf/conditionals-tutorial.git
