@@ -16,3 +16,6 @@
 [submodule "conditionals-tutorial"]
 	path = conditionals-tutorial
 	url = https://github.com/tarthurf/conditionals-tutorial.git
+[submodule "fetch-async-tutorial"]
+	path = fetch-async-tutorial
+	url = https://github.com/tarthurf/fetch-async-tutorial
